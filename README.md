@@ -11,11 +11,6 @@
 </h3>
 
 
-
-
-
-# Hey, I'm Abigail Woolley  
-
 I’m a **Data Engineer & Machine Learning Engineer** passionate about building **scalable, secure, and intelligent data systems** that empower businesses to make decisions with confidence. With **6+ years of experience** spanning **data engineering, software development, and machine learning**, I thrive at the intersection of **data infrastructure, applied AI, and enterprise-scale operations**.  
 
 💡 My core mission: **transforming raw, messy data into trusted, analytics-ready assets and ML-powered insights** that drive measurable business value.  
