@@ -12,7 +12,7 @@
 ---
 
 ## 👩🏽‍💻 About Me
-In tech, I wear a few hats — **Data Engineer, Machine Learning Engineer, and Problem Solver**. But everything I do comes down to one thing:  
+In tech, I wear a few hats - **Data Engineer, Machine Learning Engineer, and Problem Solver**. But everything I do comes down to one thing:  
 👉 **enabling teams to trust, use, and act on data with confidence.**
 
 Over the past **6+ years**, I’ve built solutions at the intersection of **data engineering, applied AI, and enterprise-scale systems**:
@@ -21,7 +21,7 @@ Over the past **6+ years**, I’ve built solutions at the intersection of **data
 - Developed **machine learning pipelines** for biometric verification, fraud detection, and deepfake detection — driving accuracy and robustness in digital KYC.  
 - Explored **AI for sustainability**, including remote sensing & precision agriculture, with a focus on **SDG 2: Zero Hunger**.  
 
-I’ve had the privilege of contributing to impactful organizations like the **World Bank Group, Smile ID, AmaliTech, Creion, and Carnegie Mellon University**. Along the way, I’ve seen firsthand how **data and AI can transform industries and lives.**
+I’ve had the privilege of contributing to impactful organizations like the **World Bank Group, Smile ID, AmaliTech, University of Ghana, Creion, and Carnegie Mellon University**. Along the way, I have seen firsthand how **data and AI can transform industries and lives.**
 
 ---
 
@@ -54,9 +54,9 @@ Outside my 7–4 role, I:
 ---
 
 ## 🌍 Let’s Connect
-- 💼 LinkedIn: [linkedin.com/in/abigail-woolley](https://www.linkedin.com/in/abigail-woolley/)  
-- 💻 GitHub: [github.com/ABIGAILDEBBY](https://github.com/ABIGAILDEBBY)  
-- 📧 Email: woolleyabigail47@gmail.com  
+- LinkedIn: [linkedin.com/in/abigail-woolley](https://www.linkedin.com/in/abigail-woolley/)  
+- GitHub: [github.com/ABIGAILDEBBY](https://github.com/ABIGAILDEBBY)  
+- Email: woolleyabigail47@gmail.com  
 
 ---
 
