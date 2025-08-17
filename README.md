@@ -1,58 +1,63 @@
 <!-- Modern Orange Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:FF6F00,50:FF8C42,100:FFC107&text=%F0%9F%91%8B%20Hello%2C%20I'm%20Abigail%20Woolley&fontSize=48&fontAlignY=35&fontAlign=50&fontColor=FFFFFF&font=Raleway&animation=twinkling&desc=%F0%9F%92%BB%20Senior%20Data%20Engineer%20%7C%20Data%20Solutions%20Architect&descAlign=50&descAlignY=65&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:FF6F00,50:FF8C42,100:FFC107&text=%F0%9F%91%8B%20Hello%2C%20I'm%20Abigail%20Woolley&fontSize=48&fontAlignY=35&fontAlign=50&fontColor=FFFFFF&font=Raleway&animation=twinkling&desc=%F0%9F%92%BB%20Senior%20Data%20Engineer%20%7C%20Machine%20Learning%20Engineer%20%7C%20Problem%20Solver&descAlign=50&descAlignY=65&descSize=20"/>
 </p>
 
-<!-- Subtle tagline -->
 <h3 align="center">
-  <span style="color:#FF6F00;">🔸 Data-driven solutions</span> • 
-  <span style="color:#FF8C42;">🚀 Scalable pipelines</span> • 
-  <span style="color:#FFC107;">✨ Trusted insights</span>
+  <span style="color:#FF6F00;">🔸 Data-Driven Solutions</span> • 
+  <span style="color:#FF8C42;">🚀 Scalable Systems</span> • 
+  <span style="color:#FFC107;">🌍 AI for Impact</span>
 </h3>
 
+---
 
-I’m a **Data Engineer & Machine Learning Engineer** passionate about building **scalable, secure, and intelligent data systems** that empower businesses to make decisions with confidence. With **6+ years of experience** spanning **data engineering, software development, and machine learning**, I thrive at the intersection of **data infrastructure, applied AI, and enterprise-scale operations**.  
+## 👩🏽‍💻 About Me
+In tech, I wear a few hats — **Data Engineer, Machine Learning Engineer, and Problem Solver**. But everything I do comes down to one thing:  
+👉 **enabling teams to trust, use, and act on data with confidence.**
 
-💡 My core mission: **transforming raw, messy data into trusted, analytics-ready assets and ML-powered insights** that drive measurable business value.  
+Over the past **6+ years**, I’ve built solutions at the intersection of **data engineering, applied AI, and enterprise-scale systems**:
+- Designed **resilient ETL/ELT pipelines** and **medallion architectures** across Microsoft Fabric, Azure Synapse, and Delta Lake.  
+- Led **secure enterprise access governance** using Entra ID, streamlining data access for 10,000+ business users globally.  
+- Developed **machine learning pipelines** for biometric verification, fraud detection, and deepfake detection — driving accuracy and robustness in digital KYC.  
+- Explored **AI for sustainability**, including remote sensing & precision agriculture, with a focus on **SDG 2: Zero Hunger**.  
+
+I’ve had the privilege of contributing to impactful organizations like the **World Bank Group, Smile ID, AmaliTech, Creion, and Carnegie Mellon University**. Along the way, I’ve seen firsthand how **data and AI can transform industries and lives.**
 
 ---
 
-## 🔹 What I Do
-- **Data Engineering** → Design and maintain resilient ETL/ELT pipelines, medallion architectures, and data governance frameworks across Microsoft Fabric, Azure Synapse, and Delta Lake.  
-- **Machine Learning** → Build and optimize ML pipelines for tasks like facial verification, fraud detection, and digital KYC — with a focus on robustness and real-world scalability.  
-- 🔐 **Data Security & Governance** → Implement role-based access (RBAC) with Entra ID, ensuring secure, seamless data provisioning for thousands of global users.  
-- **Analytics Enablement** → Transform financial and procurement datasets from Coupa and Sage ERP into analytics-ready formats, boosting reporting efficiency by 40%+.  
-
----
-
-## 🔹 Highlights & Impact
--  **Enterprise Data Infrastructure**: Built and managed data pipelines supporting **10,000+ global business users**, streamlining financial reporting and cross-border operations.  
--  **Efficiency Gains**: Automated pipeline refresh/orchestration and applied partitioning strategies, reducing runtime by ~20% and analyst prep workload by ~30%.  
--  **ML for Identity Verification**: Improved deepfake and spoof detection by 10% in digital KYC workflows through optimized model architectures.  
--  **Product Leadership**: As a **Technical Product Manager**, improved product adoption by 20% and drove consistent year-on-year increases in customer value.  
-
----
-
-## 🔹 Technical Toolbox
-**Languages & Tools**  
-- Python | SQL | PySpark | Git & GitHub  
-- Azure Synapse | Microsoft Fabric (Dataflows, Notebooks, Lakehouse, Pipelines) | Delta Lake | Azure Data Lake Storage  
-- Power BI | MLflow | Azure ML | API-based Data Ingestion (Coupa, Sage ERP)  
-
-**Core Skills**  
-- Data Modeling & Validation  
-- Workflow Automation  
-- Machine Learning Integration  
-- Data Security & Governance  
+## 🔹 What I Do Best
+- **Data Engineering** → Scalable ETL pipelines, Lakehouse architectures, workflow automation.  
+- **Applied Machine Learning** → Biometric verification, fraud detection, deepfake resistance.  
+- **Data Governance & Security** → Role-based access control, compliance-ready provisioning.  
+- **Analytics Enablement** → Turning raw procurement & financial data (Coupa, Sage ERP) into 40%+ faster reporting.  
 
 ---
 
 ## 🔹 Beyond Work
-I’m deeply motivated by the role of **data and AI in solving real-world problems** — from financial inclusion to operational efficiency. Outside of engineering, I enjoy collaborating with communities that empower women in tech, exploring IoT applications, and mentoring aspiring data professionals.  
+Outside my 7–4 role, I:  
+- Run **ScholarsBackPack**, a resume + application review service that has supported professionals across Ghana, Spain, the UK, Nigeria, the US, Kenya, Tanzania, and India.  
+- Invest in **agribusiness ventures**, staying close to my long-term interest in **AI + agriculture for food security**.  
+- Contribute to communities empowering **women in tech**, mentorship, and IoT innovation.  
 
 ---
 
-## 📫 Let’s Connect
--  LinkedIn: [linkedin.com/in/abigail-woolley](https://www.linkedin.com/in/abigail-woolley/)  
--  GitHub: [github.com/ABIGAILDEBBY](https://github.com/ABIGAILDEBBY)  
--  Email: woolleyabigail47@gmail.com  
+## 🛠️ Toolbox
+**Languages & Tools**  
+`Python` • `SQL` • `PySpark` • `Git` • `Azure Synapse` • `Microsoft Fabric` • `Delta Lake` • `Azure Data Lake` • `Power BI` • `MLflow` • `Azure ML`
+
+**Core Skills**  
+✔ Data Modeling & Validation  
+✔ Workflow Automation  
+✔ Machine Learning Integration  
+✔ Data Security & Governance  
+
+---
+
+## 🌍 Let’s Connect
+- 💼 LinkedIn: [linkedin.com/in/abigail-woolley](https://www.linkedin.com/in/abigail-woolley/)  
+- 💻 GitHub: [github.com/ABIGAILDEBBY](https://github.com/ABIGAILDEBBY)  
+- 📧 Email: woolleyabigail47@gmail.com  
+
+---
+
+✨ *At the heart of my journey is this: building systems that not only scale, but also solve problems that matter.*  
