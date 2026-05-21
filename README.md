@@ -56,7 +56,6 @@ Outside my 7–4 role, I:
 ## 🌍 Let’s Connect
 - LinkedIn: [linkedin.com/in/abigail-woolley](https://www.linkedin.com/in/abigail-woolley/)  
 - GitHub: [github.com/ABIGAILDEBBY](https://github.com/ABIGAILDEBBY)  
-- Email: woolleyabigail47@gmail.com  
 
 ---
 
