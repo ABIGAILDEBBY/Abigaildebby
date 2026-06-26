@@ -18,7 +18,7 @@ In tech, I wear a few hats - **Data Engineer, Machine Learning Engineer, and Pro
 Over the past **6+ years**, I’ve built solutions at the intersection of **data engineering, applied AI, and enterprise-scale systems**:
 - Designed **resilient ETL/ELT pipelines** and **medallion architectures** across Microsoft Fabric, Azure Synapse, and Delta Lake.  
 - Led **secure enterprise access governance** using Entra ID, streamlining data access for 10,000+ business users globally.  
-- Developed **machine learning pipelines** for biometric verification, fraud detection, and deepfake detection — driving accuracy and robustness in digital KYC.  
+- Developed **machine learning pipelines** for biometric verification, fraud detection, and deepfake detection - driving accuracy and robustness in digital KYC.  
 - Explored **AI for sustainability**, including remote sensing & precision agriculture, with a focus on **SDG 2: Zero Hunger**.  
 
 I’ve had the privilege of contributing to impactful organizations like the **World Bank Group, Smile ID, AmaliTech, University of Ghana, Creion, and Carnegie Mellon University**. Along the way, I have seen firsthand how **data and AI can transform industries and lives.**
