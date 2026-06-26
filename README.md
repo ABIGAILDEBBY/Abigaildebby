@@ -4,9 +4,9 @@
 </p>
 
 <h3 align="center">
-  <span style="color:#FF6F00;">🔸 Data-Driven Solutions</span> • 
-  <span style="color:#FF8C42;">🚀 Scalable Systems</span> • 
-  <span style="color:#FFC107;">🌍 AI for Impact</span>
+  <span style="color:#FF6F00;"> Data-Driven Solutions</span> • 
+  <span style="color:#FF8C42;"> Scalable Systems</span> • 
+  <span style="color:#FFC107;"> AI for Impact</span>
 </h3>
 
 ---
